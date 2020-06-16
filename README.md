@@ -6,5 +6,5 @@ your github email is 330035385@qq.com
 
 
 
- customWritableStream 自定义一个可读stream
+ customWritableStream 自定义一个可写的stream
 

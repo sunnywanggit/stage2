@@ -1,6 +1,6 @@
 const {Writable} = require('stream')
 
-//这是一个可读的 stream
+//这是一个可写的 stream
 const outStream = new Writable({
     write(chunk, encoding, callback) {
         console.log(chunk.toString());
